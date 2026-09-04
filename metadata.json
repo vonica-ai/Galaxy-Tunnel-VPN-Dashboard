@@ -1,0 +1,8 @@
+{
+  "name": "VPN Config Share Hub",
+  "description": "A clean, public platform for sharing and finding Vless and Trojan VPN configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
